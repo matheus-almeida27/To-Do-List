@@ -32,7 +32,7 @@ body {
     width: 65vw;
     height: auto;
     text-align: center;
-    backdrop-filter: blur(11px) saturate(124%);
+    backdrop-filter: blur(4px) saturate(124%);
     -webkit-backdrop-filter: blur(11px) saturate(80%);
     background-color: rgba(157, 103, 170, 0.116);
     border-radius: 12px;
@@ -136,3 +136,15 @@ ul li.checked::before {
     transition: 0.5s;
 }
 
+.noTasks {
+    background-color: rgba(127, 255, 212, 0.342);
+    height: 40vh;
+    width: 65vw;
+    display: none;
+}
+
+.noTasks h1{
+    margin-top: 3rem;
+    text-align: center;
+    font-size: 18px;
+}
