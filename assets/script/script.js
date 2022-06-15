@@ -1,5 +1,4 @@
 //Close btn at end of list item
-
 var myList = document.getElementsByTagName("li");
 for (let i = 0; i < myList.length; i++) {
     var span = document.createElement("span");
