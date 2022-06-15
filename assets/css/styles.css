@@ -163,8 +163,9 @@ ul li.checked::before {
 }
 .close:hover {
     background-color: rgb(255, 0, 0);
+    border-radius: 10px;
     color: black;
-    transition: 0.5s;
+    transition: 0.2s;
 }
 
 .noTasks {
