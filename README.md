@@ -1,4 +1,4 @@
-# ToDo
+# Responsible To Do List, Responsible, Clean, Beautiful!
  A "To Do" area coded with HTML, CSS and VanillaJS
  
  - You can add tasks by typing on the input and press "Enter" or click on "Add" button
