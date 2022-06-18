@@ -25,6 +25,8 @@ body {
 .head h1{
     padding: 15px;
     margin: 0;
+    text-shadow: -6px 3px 8px #000000;
+
 }
 
 .head {
@@ -83,7 +85,7 @@ input {
 
 .addBtn{
     cursor: pointer;
-    padding: 12px;
+    padding: 13px;
     width: 25%;
     background: black;
     text-align: center;
@@ -95,6 +97,8 @@ input {
     background-color: rgb(230, 230, 230);
     color: black;
     transition: 0.5s;
+    text-shadow: -6px 3px 8px #000000;
+
 
 }
 
@@ -164,4 +168,19 @@ ul li.checked::before {
     border-radius: 10px;
     color: black;
     transition: 0.2s;
+}
+
+
+.noTasks {
+    margin-top: 3rem;
+    width: 65vw;
+    height: auto;
+    transition: 1s;
+    text-align: center;
+    display: block;
+}
+p {
+    font-size: 15pt;
+    text-shadow: -6px 3px 8px #000000;
+
 }
