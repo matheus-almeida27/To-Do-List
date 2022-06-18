@@ -1,4 +1,4 @@
-# Easy to use "To Do List", Responsible, Clean, Beautiful!
+# "Today's Tasks" a easy to use To Do List, Responsible, Clean, Beautiful!
  A "To Do" area coded with HTML, CSS and VanillaJS
  
  - You can add tasks by typing on the input and press "Enter" or click on "Add" button
@@ -7,5 +7,9 @@
  - By clickin on the "x" button the task will be deleted
 
 
-https://user-images.githubusercontent.com/53056041/173752877-f57f3ef4-91fc-48a8-910c-24317e7996c5.mp4
+
+
+
+
+https://user-images.githubusercontent.com/53056041/174419938-de304e8f-42b7-4c46-a372-88c08efda521.mp4
 
